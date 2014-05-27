@@ -1,0 +1,4 @@
+package {
+'tree.i686':
+ensure => installed
+}
