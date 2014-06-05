@@ -89,7 +89,6 @@ file { '/tmp/hello':
 content => "kkkkk",
 notify => Service['apache2']
 }
-
 }
 
-
+#just a comment at the end
