@@ -94,10 +94,3 @@ notify => Service['apache2']
 #just a comment at the end
 #just another comment at the end
 #last one for today
-#starting... via ssh
-#another one... via ssh
-#another one... from vcentos via ssh
-#another one... from vcentos via ssh
-#another one... from vcentos via ssh
-#another one... from vcentos via ssh
-
